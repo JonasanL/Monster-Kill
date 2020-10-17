@@ -16,3 +16,7 @@
 ## Performance Evaluations
 - Run the mission first, it will generate `stats.csv`
 - Run `evaluation.ipynb` with Jupyter Notebook
+
+## Watch it in action
+
+[![Watch the video](https://i9.ytimg.com/vi/32yJBvLWftQ/mq2.jpg?sqp=COSBqfwF&rs=AOn4CLA5q9BYPwZiyEcSt3m76bF4Ewe9fA)](https://www.youtube.com/watch?v=32yJBvLWftQ)
